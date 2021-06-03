@@ -1,7 +1,7 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "base_url": "https://v18-test.netlify.app/",
+  "site_title": "Skolepraktik Next.js Netlify Blog",
+  "site_description": "test forsøg på headless cms til SKolepraktikken",
   "site_keywords": [
     {
       "keyword": "Next.js"
@@ -15,5 +15,5 @@
   ],
   "posts_per_page": 5,
   "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "github_account": "v18kunde"
 }
